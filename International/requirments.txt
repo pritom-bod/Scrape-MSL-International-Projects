@@ -1,0 +1,4 @@
+Django==5.2.3
+pandas==2.3.0
+selenium==4.33.0
+openpyxl==3.1.5
